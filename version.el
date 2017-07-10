@@ -1,9 +1,9 @@
 ;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
 ;;;
 ;;;  version.el -- 
-;;;	author: nakai <nakai@mcl.chem.tohoku.ac.jp>
+;;;	author: nakai <bigswim.atom@gmail.com>
 ;;;	create day: Thu Sep 26 16:42:55 2002    
-;;;     last updated: Fri Jul  4 19:18:45 2003
+;;;     last updated: Mon Jul 10 09:42:14 2017
 ;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
 (defun lastvarsion-file nil
   "last Update: "
